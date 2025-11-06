@@ -13,9 +13,9 @@ array의 길이는 홀수입니다.
 -1,000 < array의 원소 < 1,000
 
 * 입출력 예
-array	result
-[1, 2, 7, 10, 11]	7
-[9, -1, 0]	0
+array	                result
+[1, 2, 7, 10, 11]	    7
+[9, -1, 0]	            0
 * */
 import java.util.*;
 
